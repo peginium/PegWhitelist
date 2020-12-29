@@ -1,5 +1,4 @@
-# DiscordWhitelister
-[![Donate](https://img.shields.io/badge/Paypal-donate-blue.svg)](https://www.paypal.me/)
+# Peg Whitelister
 [![Discord](https://img.shields.io/discord/742408927022546975?label=Discord)](https://discord.gg/jH3xweb9E4)  
   
 A easy Discord Bot which adds Minecraft Players to your Minecraft Whitelist.
