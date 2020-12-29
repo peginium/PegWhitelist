@@ -4,7 +4,7 @@
   
 A easy Discord Bot which adds Minecraft Players to your Minecraft Whitelist.
 This Minecraft Plugin/Discord Bot is my first functional code written.
-Supports German, English and a custom language!
+Supports Turkish, English and a custom language!
 # Installation
 1. Download from https://github.com/Peginium/DiscordWhitelister/releases
 2. Place .jar file in the Minecraft Server plugins folder
