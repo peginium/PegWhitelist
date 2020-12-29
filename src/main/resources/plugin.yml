@@ -1,0 +1,5 @@
+name: PegWhitelist
+version: 1.0
+main: peg.pegwhitelist.main
+api-version: 1.13
+website: github.com/peginium
