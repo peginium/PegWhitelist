@@ -2,7 +2,6 @@
 [![Discord](https://img.shields.io/discord/742408927022546975?label=Discord)](https://discord.gg/jH3xweb9E4)  
   
 A easy Discord Bot which adds Minecraft Players to your Minecraft Whitelist.
-This Minecraft Plugin/Discord Bot is my first functional code written.
 Supports Turkish, English and a custom language!
 # Installation
 1. Download from https://github.com/peginium/PegWhitelist/releases
